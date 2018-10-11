@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head>
     <meta charset="UTF-8">
-    <title> || Wirpan Atmaja || Salam! </title>
+    <title> || Wirpan Atmaja || Ulfa ! </title>
     <meta name="description" content="Halo saya Wirpan Atmaja,">
     <meta name="keywords" content=", website">
     <meta name="author" content="Wirpan Atmaja">
